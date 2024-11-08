@@ -11,7 +11,7 @@ library(cowplot)
 
 
 # Set up ------------------------------------------------------------------
-setwd('/Users/r_kirk98/Documents/Gigs:Music/Sheffield/PhD/Rwork/Sleep study - night results')
+setwd()
 
 # Load data
 data_sleep <-
